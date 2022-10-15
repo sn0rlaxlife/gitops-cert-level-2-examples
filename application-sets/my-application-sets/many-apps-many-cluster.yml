@@ -27,7 +27,7 @@ spec:
         path: '{{path}}'
       syncPolicy:
        syncOptions:
-       -CreateNamespace=true
+       - CreateNamespace=true
        automated:
         selfHeal: true
       destination:
